@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A9EB7915-E88A-44A2-9D61-13C70ADB626E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C006350-27C9-40CB-9EFE-19EFACB18DA5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DISCTest/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ResultViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0C006350-27C9-40CB-9EFE-19EFACB18DA5 - ef21bde3e74af4e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DISCTest.ResultViewController.titleLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DISCTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/choedoil/Desktop/ios/DISCTest/DISCTest/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "0C006350-27C9-40CB-9EFE-19EFACB18DA5 - 84b4011384f3d0f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DISCTest.ResultViewController.titleLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DISCTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/choedoil/Desktop/ios/DISCTest/DISCTest/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "0C006350-27C9-40CB-9EFE-19EFACB18DA5 - 934130ced829adf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DISCTest.ResultViewController.titleLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DISCTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/choedoil/Desktop/ios/DISCTest/DISCTest/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16">
+               </Location>
+               <Location
+                  uuid = "0C006350-27C9-40CB-9EFE-19EFACB18DA5 - 365b3698e063bcc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DISCTest.ResultViewController.titleLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DISCTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/choedoil/Desktop/ios/DISCTest/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "0C006350-27C9-40CB-9EFE-19EFACB18DA5 - 3976e289e2cf7aa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DISCTest.ResultViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DISCTest.ResultViewController"
+                  moduleName = "DISCTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/choedoil/Desktop/ios/DISCTest/DISCTest/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16">
+               </Location>
+               <Location
+                  uuid = "0C006350-27C9-40CB-9EFE-19EFACB18DA5 - 8bd967719259af60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DISCTest.ResultViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DISCTest.ResultViewController&gt;"
+                  moduleName = "DISCTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/choedoil/Desktop/ios/DISCTest/DISCTest/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
