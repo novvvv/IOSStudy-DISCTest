@@ -15,8 +15,24 @@ class ResultViewController: UIViewController {
     @IBOutlet weak var descriptionTextView: UITextView!
     
     // MARK: - Methods
-
+    // MARK: Life Cycle
+    // * 사용자의 응답 결과는 UserInfo 내부의 싱글톤에 저장
+    override func viewWillAppear(_ animated: Bool) {
+        
+        super.viewWillAppear(animated)
+        self.nameLabel.text = UserInfo.shared.name
+        self.percentageLabel.text = UserInfo.shared.scorePercentageText
+        
+        guard let result: Result.Info = UserInfo.shared.hightestScoreResult else { return }
+        
+        self.titleLabel.text = result.title
+        self.descriptionTextView.text = result.typeDescription
+    }
+    
+    
+    // MARK: 처음 화면으로 돌아가는 버튼
     @IBAction func touchUpDismissButton(_ sender: UIButton) {
+        self.navigationController?.presentingViewController?.dismiss(animated: true, completion: nil)
     }
     /*
     // MARK: - Navigation
